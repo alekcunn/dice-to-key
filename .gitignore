@@ -1,0 +1,6 @@
+build
+private_key.pem
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
